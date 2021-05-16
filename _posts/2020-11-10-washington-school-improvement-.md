@@ -1,11 +1,13 @@
 ---
-title: Washington School Improvement Framework (WSIF) 2017 Run
-created: '2020-11-10T17:20:07.752015'
-modified: '2020-11-10T17:20:07.752023'
+title: Washington School Improvement Framework (WSIF) Stacked 2017 - 2019 Runs
+created: '2020-11-10T17:20:59.684787'
+modified: '2020-11-10T17:20:59.684795'
 state: active
 type: dataset
 tags:
   - '2017'
+  - '2018'
+  - '2019'
   - Accountability
   - Education
   - Essa
@@ -18,9 +20,9 @@ tags:
   - Wsif
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/93km-ba4a/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/93km-ba4a/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/kg5k-8pyt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/kg5k-8pyt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2017 Run of the Washington School Improvement Framework for Federal School Accountability under the Every Student Succeeds Act
+The Washington School Improvement Framework is used for Federal School Accountability under the Every Student Succeeds Act
