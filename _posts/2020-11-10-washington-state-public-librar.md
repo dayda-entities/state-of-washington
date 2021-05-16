@@ -1,7 +1,9 @@
 ---
-title: Washington State Public Library Services Affected by COVID-19
-created: '2020-11-10T17:19:56.253058'
-modified: '2020-11-10T17:19:56.253067'
+title: >-
+  Washington State Public Library Services during COVID-19 Building Closure &
+  Reopening
+created: '2020-11-10T17:21:03.793379'
+modified: '2020-12-04T19:06:59.779228'
 state: active
 type: dataset
 tags:
@@ -12,9 +14,9 @@ tags:
   - Public Library
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/6iab-kcxu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/6iab-kcxu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/ma99-sxnd/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/ma99-sxnd/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset records information about how COVID-19 has affected various services at Washington State's 60 public library systems.
+This dataset tracks services that Washington State public libraries continued to provide to the public during the COVID-19 pandemic, when many library buildings and facilities were closed to prevent viral spread and protect public health. The dataset also tracks reopening that began in summer 2020.
