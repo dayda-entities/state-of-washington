@@ -1,36 +1,32 @@
 ---
 title: >-
   Department of Health Contracts Started or Amended During State Fiscal Year
-  2018
-created: '2020-11-10T17:21:16.278084'
-modified: '2020-11-10T17:21:16.278095'
+  2019
+created: '2020-11-10T17:21:32.026103'
+modified: '2020-11-10T17:21:32.026114'
 state: active
 type: dataset
 tags:
-  - Amendments
+  - Agency
   - Contracts
   - Department Of Health
   - Doh
   - Expenditures
-  - Grants
-  - Health
   - Procurement
-  - Sfy 18
-  - State Fiscal Year 2018
-  - Wa
-  - Washington State
+  - Public Health
+  - Report
+  - Spend
+  - Washington State Department Of Health
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/qhn8-3a9e/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/qhn8-3a9e/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/un75-jhzj/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/un75-jhzj/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-A partial list of contracts the State Department of Health started or amended between July 1, 2017 and June 30, 2018. Includes grants and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include contracts many of the department's contracts with Washington's local health jurisdictions, or contracts for expert witnesses, purchase orders, data sharing agreements, contracts issued by the department but not tracked in ECMS, or contracts exempt from disclosure under state or federal regulation. 
+A partial list of contracts the State Department of Health started or amended between July 1, 2018 and June 30, 2019. Includes grants and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include grants and/or contracts with Washington's local health jurisdictions, contracts for expert witnesses, purchase orders, data sharing agreements, contracts issued by the department but not tracked in ECMS, or contracts exempt from disclosure under state or federal regulation. 
 
-In 2017, the department added a data element to categorize entities. This is not found in prior years' data sets.
-
-Acronyms commonly found in this data set are:
+Acronyms commonly found in this data set are: 
 
 CBO=Community Based Organizations/Non-Profits
 CLH=Local Health Jurisdictions
