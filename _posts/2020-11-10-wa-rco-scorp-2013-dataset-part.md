@@ -1,7 +1,7 @@
 ---
-title: WA RCO SCORP 2013 Dataset Part 2 of 7
-created: '2020-11-10T17:20:10.838628'
-modified: '2020-11-10T17:20:10.838638'
+title: WA RCO SCORP 2013 Dataset Part 3 of 7
+created: '2020-11-10T17:20:47.249990'
+modified: '2020-11-10T17:20:47.250001'
 state: active
 type: dataset
 tags:
@@ -11,8 +11,8 @@ tags:
   - Washington State Wa
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/9tkb-7qab/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/9tkb-7qab/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/i278-it6c/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/i278-it6c/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
