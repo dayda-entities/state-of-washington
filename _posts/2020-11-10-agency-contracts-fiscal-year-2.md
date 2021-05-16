@@ -1,20 +1,18 @@
 ---
-title: Agency Contracts Fiscal Year 2016
-created: '2020-11-10T17:20:26.660968'
-modified: '2020-11-10T17:20:26.660977'
+title: Agency Contracts Fiscal Year 2015
+created: '2020-11-10T17:20:52.400656'
+modified: '2020-11-10T17:20:52.400663'
 state: active
 type: dataset
 tags:
-  - Agency
   - Contracts
   - Procurement
   - Report
-  - Spend
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/dq2q-43tp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/dq2q-43tp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/j59h-dkq5/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/j59h-dkq5/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-List of agency contracts in compliance with RCW 39.26.
+List of agency contracts in compliance with RCW 39.26
