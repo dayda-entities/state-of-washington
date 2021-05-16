@@ -1,7 +1,7 @@
 ---
-title: 'Sixth (6th) grade immunization data by school, 2015-2016'
-created: '2020-11-10T17:20:11.210636'
-modified: '2020-11-10T17:20:11.210643'
+title: 'Sixth (6th) grade immunization data by school, 2016-2017'
+created: '2020-11-10T17:20:31.352195'
+modified: '2020-11-10T17:20:31.352205'
 state: active
 type: dataset
 tags:
@@ -10,16 +10,16 @@ tags:
   - Dtap
   - Hepb
   - Immunization
+  - Kindergarten
   - Mmr
   - Polio
-  - Student
   - Vaccination
   - Varicella
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/9vf7-7een/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/9vf7-7een/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/emhz-m99x/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/emhz-m99x/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Washington sixth grade immunization rates by school for 2015-2016
+Sixth grade immunization coverage for school year 2016-2017 by school
