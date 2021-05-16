@@ -1,20 +1,21 @@
 ---
-title: City of Colfax Building Permits February 2016
-created: '2020-11-10T17:21:22.949193'
-modified: '2020-11-10T17:21:22.949200'
+title: City of Colfax Building Permits January 2016
+created: '2020-11-10T17:20:50.358204'
+modified: '2020-11-10T17:20:50.358215'
 state: active
 type: dataset
 tags:
   - '2016'
   - Building
-  - Building Permit
+  - Building Permits
   - Colfax
-  - Permit
+  - January
+  - Permits
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/sefr-g784/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/sefr-g784/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/iqrw-294q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/iqrw-294q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset has building permits issued by the City during February 2016
+This dataset has building permits issued during the month of January 2016.
