@@ -1,34 +1,47 @@
 ---
 title: >-
-  Department of Health Contracts Started or Amended during State Fiscal Year
-  2016
-created: '2020-11-10T17:21:06.662802'
-modified: '2020-11-10T17:21:06.662813'
+  Department of Health Contracts Started or Amended During State Fiscal Year
+  2018
+created: '2020-11-10T17:21:16.278084'
+modified: '2020-11-10T17:21:16.278095'
 state: active
 type: dataset
 tags:
-  - Amendment
   - Amendments
-  - Contract
   - Contracts
   - Department Of Health
-  - Dept Of Health
   - Doh
   - Expenditures
-  - Fiscal
-  - Grant
   - Grants
-  - Loan
-  - Loans
+  - Health
   - Procurement
-  - Procurements
-  - Sfy 16
-  - State Fiscal Year 2016
+  - Sfy 18
+  - State Fiscal Year 2018
+  - Wa
+  - Washington State
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/mx83-wxi5/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/mx83-wxi5/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/qhn8-3a9e/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/qhn8-3a9e/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-A partial list of contracts the State Department of Health started or amended between July 1, 2015 and June 30, 2016. Includes grants, loans, and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include contracts with Washington's local health jurisdictions, contracts for expert witnesses, or purchase orders. Acronyms are used for doing business as (DBA), statement of work (SOW), and period of performance (POP). Amendments are represented as the contract number with a hyphen extension. For example, N12345-1 would be the first amendment to contract N12345.
+A partial list of contracts the State Department of Health started or amended between July 1, 2017 and June 30, 2018. Includes grants and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include contracts many of the department's contracts with Washington's local health jurisdictions, or contracts for expert witnesses, purchase orders, data sharing agreements, contracts issued by the department but not tracked in ECMS, or contracts exempt from disclosure under state or federal regulation. 
+
+In 2017, the department added a data element to categorize entities. This is not found in prior years' data sets.
+
+Acronyms commonly found in this data set are:
+
+CBO=Community Based Organizations/Non-Profits
+CLH=Local Health Jurisdictions
+EMS= EMS/Trauma Centers
+GVF=Government Federal
+GVL=Government Local (EXCEPT Con-Con/LHJ)
+GVS=Government State (EXCEPT Higher Ed)
+HED=Higher Education
+HSP=Hospitals
+POP = Period of Performance
+PRV=Private/For-Profits 
+SCH=Schools, School Districts & Education Institutions (excluding Higher Ed)
+SOW = Statement of Work
+TRB=Tribal Entity
