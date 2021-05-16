@@ -1,43 +1,28 @@
 ---
 title: >-
-  Department of Health Contracts Started or Amended During State Fiscal Year
-  2019
-created: '2020-11-10T17:21:32.026103'
-modified: '2020-11-10T17:21:32.026114'
+  Department Of Health Contracts Started Or Amended During State Fiscal Year
+  2017
+created: '2020-11-10T17:19:52.992627'
+modified: '2020-11-10T17:19:52.992638'
 state: active
 type: dataset
 tags:
-  - Agency
+  - Amendments
   - Contracts
   - Department Of Health
   - Doh
   - Expenditures
+  - Grants
+  - Health
+  - Loans
   - Procurement
-  - Public Health
-  - Report
-  - Spend
-  - Washington State Department Of Health
+  - Sfy 17
+  - State Fiscal Year 2017
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/un75-jhzj/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/un75-jhzj/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/5s66-2kbs/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/5s66-2kbs/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-A partial list of contracts the State Department of Health started or amended between July 1, 2018 and June 30, 2019. Includes grants and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include grants and/or contracts with Washington's local health jurisdictions, contracts for expert witnesses, purchase orders, data sharing agreements, contracts issued by the department but not tracked in ECMS, or contracts exempt from disclosure under state or federal regulation. 
-
-Acronyms commonly found in this data set are: 
-
-CBO=Community Based Organizations/Non-Profits
-CLH=Local Health Jurisdictions
-EMS= EMS/Trauma Centers
-GVF=Government Federal
-GVL=Government Local (EXCEPT Con-Con/LHJ)
-GVS=Government State (EXCEPT Higher Ed)
-HED=Higher Education
-HSP=Hospitals
-POP = Period of Performance
-PRV=Private/For-Profits 
-SCH=Schools, School Districts & Education Institutions (excluding Higher Ed)
-SOW = Statement of Work
-TRB=Tribal Entity
+A partial list of contracts the State Department of Health started or amended between July 1, 2016 and June 30, 2017. Includes grants, loans, and contracts for goods and professional services tracked in the department's primary contract database, the Enterprise Contract Management System (ECMS). It does not include contracts with Washington's local health jurisdictions, contracts for expert witnesses, purchase orders, contracts issued by the department but not tracked in ECMS, or contracts exempt from disclosure under state or federal regulation. Acronyms are used for doing business as (DBA), statement of work (SOW), and period of performance (POP).
