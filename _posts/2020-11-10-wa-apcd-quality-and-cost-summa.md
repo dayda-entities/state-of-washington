@@ -1,14 +1,14 @@
 ---
-title: WA-APCD Quality and Cost Summary Report County Cost
-created: '2020-11-10T17:19:48.744756'
-modified: '2020-11-10T17:19:48.744766'
+title: WA-APCD Quality and Cost Summary Report ACH Quality
+created: '2020-11-10T17:20:52.704128'
+modified: '2020-11-10T17:20:52.704139'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/4rfn-62je/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/4rfn-62je/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/j78i-gfy5/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/j78i-gfy5/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
