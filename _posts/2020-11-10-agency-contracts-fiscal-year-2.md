@@ -1,19 +1,15 @@
 ---
-title: Agency Contracts Fiscal Year 2017
-created: '2020-11-10T17:21:41.887227'
-modified: '2020-11-10T17:21:41.887234'
+title: Agency Contracts Fiscal Year 2019
+created: '2020-11-10T17:20:04.141129'
+modified: '2020-11-10T17:20:04.141140'
 state: active
 type: dataset
 tags:
-  - Agency
-  - Contracts
-  - Procurement
-  - Report
-  - Spend
+  - Contracts Procurement Report Agency Spend
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/xfwh-dmij/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/xfwh-dmij/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/87uq-bpim/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/87uq-bpim/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
