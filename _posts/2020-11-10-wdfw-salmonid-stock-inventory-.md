@@ -1,7 +1,7 @@
 ---
-title: WDFW-Salmonid Stock Inventory Population Escapement
-created: '2020-11-10T17:20:35.062368'
-modified: '2020-12-04T19:05:58.347825'
+title: WDFW-Salmonid Stock Inventory Populations
+created: '2020-11-10T17:21:08.061587'
+modified: '2020-12-04T19:07:13.630629'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Wdfw
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/fgyz-n3uk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/fgyz-n3uk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/ncqh-ypvf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/ncqh-ypvf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-WDFW SaSI wild salmonid abundance
+WDFW SaSI wild samonid populations
