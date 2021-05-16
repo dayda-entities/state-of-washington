@@ -1,14 +1,14 @@
 ---
-title: WA-APCD Quality and Cost Summary Report Hospital Quality
-created: '2020-11-10T17:21:13.872789'
-modified: '2020-11-10T17:21:13.872796'
+title: WA-APCD Quality and Cost Summary Report Practice Quality
+created: '2020-11-10T17:20:29.551558'
+modified: '2020-11-10T17:20:29.551568'
 state: active
 type: dataset
 tags: []
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/q3qk-yy3p/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/q3qk-yy3p/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/ebwb-9rx9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/ebwb-9rx9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
