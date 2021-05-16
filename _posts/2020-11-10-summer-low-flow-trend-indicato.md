@@ -1,7 +1,7 @@
 ---
-title: Summer Low Flow Trend Indicator 1975-2013
-created: '2020-11-10T17:20:44.438086'
-modified: '2020-11-10T17:20:44.438097'
+title: Summer Low Flow Trend Indicator 1975-2014
+created: '2020-11-10T17:19:56.083633'
+modified: '2020-11-10T17:19:56.083643'
 state: active
 type: dataset
 tags:
@@ -16,18 +16,16 @@ tags:
   - Trend
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/hdw4-yhs4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/hdw4-yhs4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/6i3q-gfgy/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/6i3q-gfgy/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Summer Low Flow Trend Indicator results, statewide, updated through Oct 2013. 
+Summer Low Flow Trend Indicator results, statewide, updated through Oct 2014 
 
-This information is updated annually with an additional year of flow data. These results are provided to the Puget Sound Partnership for their Vital Signs (http://www.psp.wa.gov/vitalsigns/summer_stream_flows.php) and to the Governor's Salmon Recovery Office for the "State of Salmon in WAtersheds" report (http://stateofsalmon.wa.gov/statewide/indicators/water-quantity). 
+This information is updated annually with an additional year of flow data. These results are provided to the Puget Sound Partnership for their Vital Signs (http://www.psp.wa.gov/vitalsigns/summer_stream_flows.php) and to the Governor's Salmon Recovery Office for the "State of Salmon in Watersheds" report (http://stateofsalmon.wa.gov/statewide/indicators/water-quantity). 
 
-The attached document "WR Indicator Outcomes Memo - 10-24-10.pdf" describes the methodology for developing these indicators. 
-
-The attached document "Low Flow Indicator Metadata.pdf" describes the contents of each column. 
+The attached document "WR Indicator Outcomes Memo - 10-24-10.pdf" describes the methodology for developing these indicators. The attached document "Low Flow Indicator Metadata.pdf" describes the contents of each column. 
 
 Dept. of Ecology home page: http://www.ecy.wa.gov/ 
 
