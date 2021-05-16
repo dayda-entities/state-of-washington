@@ -1,18 +1,28 @@
 ---
-title: WA RCO SCORP 2013 Dataset Part 7 of 7
-created: '2020-11-10T17:21:05.683499'
-modified: '2020-11-10T17:21:05.683510'
+title: WA RCO SCORP 2013 Dataset Part 1 of 7
+created: '2020-11-10T17:20:50.484373'
+modified: '2020-11-10T17:20:50.484385'
 state: active
 type: dataset
 tags:
-  - National Park Service Nps
-  - Recreation And Conservation Office Rco
-  - State Comprehensive Outdoor Recreation Plan Scorp 2013
-  - Washington State Wa
+  - '2013'
+  - Comprehensive
+  - Conservation
+  - National Park Service
+  - Nps
+  - Office
+  - Outdoor
+  - Plan
+  - Rco
+  - Recreation
+  - Scorp
+  - State
+  - Wa
+  - Washington
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/mpxt-wffm/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/mpxt-wffm/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/irc2-87d5/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/irc2-87d5/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
