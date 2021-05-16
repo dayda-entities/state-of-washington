@@ -1,7 +1,7 @@
 ---
-title: Public Health Activities and Services - 2013
-created: '2020-11-10T17:19:39.945192'
-modified: '2020-11-10T17:19:39.945202'
+title: Public Health Activities and Services - 2014
+created: '2020-11-10T17:20:47.369988'
+modified: '2020-11-10T17:20:47.369999'
 state: active
 type: dataset
 tags:
@@ -12,8 +12,8 @@ tags:
   - Washington State Department Of Health
 groups:
   - Local Government
-csv_url: 'https://data.wa.gov/api/views/28ar-n972/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.wa.gov/api/views/28ar-n972/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.wa.gov/api/views/i3e8-j9am/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.wa.gov/api/views/i3e8-j9am/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
