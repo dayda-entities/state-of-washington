@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Seal_of_Washington.svg/1200px-Seal_of_Washington.svg.png
+profile_pic: 'https://directory.dayda.org/assets/img/entities/state-of-washington.png'
 favicon: /assets/img/favicon.png
 url: 'http://state-of-washington.dayda.org'
 encoding: utf-8
